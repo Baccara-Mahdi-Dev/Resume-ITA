@@ -68,7 +68,7 @@ cv:
         location: Genova, Italia
         summary:
         highlights:
-          - Sviluppo e mantenimento di **API RESTFUL** basate sul framework **Larvel** (**Lumen**) e **REST** basate sul framework **Restler**
+          - Sviluppo e mantenimento di **API RESTFUL** basate sul framework **Laravel** (**Lumen**) e **REST** basate sul framework **Restler**
           - Contribuzione alla documentazione sulla piattaforma Confluence
           - Test e correzione di bug
           - Risoluzione ticket su **Trello** e **GitLab**
