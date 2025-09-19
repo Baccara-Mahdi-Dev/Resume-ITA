@@ -1,0 +1,324 @@
+cv:
+  name: Baccara Mahdi
+  location: Genova
+  email: baccara.mahdi@zoho.com
+  phone: "+39 3469502475"
+  website: https://baccara-dev.netlify.app/
+  social_networks:
+    - network: LinkedIn
+      username: mahdi-baccara
+    - network: GitHub
+      username: Baccara-Mahdi-Dev
+  sections:
+    # About me:
+    #   - '[RenderCV](https://rendercv.com) is a Typst-based CV framework designed for academics and engineers, with Markdown syntax support.'
+    #   - Each section title is arbitrary. Each section contains a list of entries, and there are 7 different entry types to choose from.
+    Esperienza Lavorativa:
+      - company: Akronos S.R.L. (per Siemens)
+        position: Full-stack Developer
+        date:
+        start_date: 2024-06-21
+        end_date:
+        location: Genova, Italia
+        summary: Attività di consulenza presso Siemens, focalizzata su sviluppo full-stack, performance testing e gestione pipeline CI/CD in ambiente enterprise.
+        highlights:
+          - Integrazione e sviluppo di pipeline **CI/CD** su **GitLab**, con gestione di processi di build, test e deploy.
+          - Sviluppo e miglioramento di test automatici di performance tramite **K6**, con analisi dei risultati e generazione di report.
+          - Utilizzo estensivo del protocollo **NATS** e della relativa client library per sistemi di messaggistica asincrona.
+          - Refactoring e aggiornamento di componenti **.NET** e **C#**, con adattamento di test e pipeline.
+          - Creazione di tool personalizzati in **Node.js** per l’elaborazione automatica dei risultati di test.
+          - Attività di containerizzazione e gestione immagini con **Docker**, controllo e validazione di immagini pubbliche e golden.
+          - Monitoraggio dei test tramite **InfluxDB** e **Grafana**, con creazione di dashboard dedicate.
+          - Introduzione e adattamento di pipeline provenienti da altri sistemi (es. TFS) all'infrastruttura **GitLab**.
+      - company: Algowatt S.p.A.
+        position: Full-stack Developer
+        date:
+        start_date: 2023-07-03
+        end_date: 2024-06-20
+        location: Genova, Italia
+        summary:
+        highlights:
+          - Sviluppo e manutenzione del software con **Angular**, **C# ASP.NET .NET** e **DB Oracle**.
+          - Contribuzione alla documentazione del progetto.
+          - Creazione di script **CMake** e programmi **C++** per il refactoring di software Matlab, con supporto di ai ChatGPT
+          - Rimodernizzazione del software C# .NET per Windows utilizzando **DevExpres** s per creare un'applicazione full stack con **Angular** nel frontend e .NET nel backend.
+          - Risoluzione dei bug e test del software.
+          - Esperienza di lavoro con **API**.
+      - company: Boris Production
+        position: Full-stack Developer
+        date:
+        start_date: 2022-07-01
+        end_date: 2023-07-03
+        location: Genova, Italia
+        summary:
+        highlights:
+          - Sviluppo della nuova U.I. e U.X. in **SCSS**, **PHP** e **Javascript** di indici.blablive
+          - Sviluppo e mantenimento di codice **PHP**
+          - Test e correzione di bug
+          - Contribuzione alla documentazione
+          - Sviluppo di nuovi ed aggiornamento di **Wordpress** plugin in PHP e **React**
+          - Risoluzione ticket
+          - Esperienza di lavoro con le **API**
+          - "Creazione webapp project management, stack : **Laverl 10**, **TailwindCSS**, **AlpineJS**, **MySQL**"
+      - company: MyPass
+        position: Full-stack Developer
+        date:
+        start_date: 2021-08-02
+        end_date: 2022-07-01
+        location: Genova, Italia
+        summary:
+        highlights:
+          - Sviluppo e mantenimento di **API RESTFUL** basate sul framework **Larvel** (**Lumen**) e **REST** basate sul framework **Restler**
+          - Contribuzione alla documentazione sulla piattaforma Confluence
+          - Test e correzione di bug
+          - Risoluzione ticket su **Trello** e **GitLab**
+          - Sviluppo di script PHP e query MySql, finalizzati alla gestione di numerosi dati ed eseguiti regolarmente tramite cron jobs
+          - Esperienza con **GitLab** e pipeline **CI/CD**
+          - Sviluppo di dashboard personalizzate e strumenti in **php** e **React**
+          - Esperienza di lavoro con le API, integrazione con servizi web esterni tra cui XML, REST o JSON
+      - company: 2Way Communication & Consulting 
+        position: Full-stack Developer
+        date:
+        start_date: 2021-01-11
+        end_date: 2021-08-01
+        location: Genova, Italia
+        summary:
+        highlights:
+          - Sviluppo e manutenzione di applicazioni web utilizzando **PHP** e **CodeIgniter** con architettura MVC.
+          - Utilizzo di **MySQL** per la gestione di database relazionali.
+          - Implementazione di funzionalità interattive con **AJAX** e **jQuery**.
+          - Creazione e gestione di interfacce utente responsive con **HTML**, **CSS** e **Bootstrap 4**.
+          - Redazione di documentazione per l'uso delle web app.
+          - Test e risoluzione di bug nel software.
+          - Esperienza nell'uso di **API** per l'integrazione con altri sistemi.
+      - company: Liguria Digitale
+        position: Internship
+        date:
+        start_date: 2023-07-03
+        end_date: 2024-06-20
+        location: Genova, Italia
+        summary:
+        highlights:
+          - Sviluppo di pagine web **XML** supportate dal **Bootstrap 4** e applicativi in **Java** , tramite l'utilizzo dell'ambiente di programmazione **Eclipse**.
+    Istruzione:
+      - institution: Università di Genova
+        area: Informatica
+        degree: BS
+        date:
+        start_date: 2020-09
+        end_date: present
+        location: Genova, Italia
+        summary:
+        highlights:
+      - institution: Istituto Istruzione Superiore "Italo Calvino"
+        area: ITIS - Informatica
+        degree: T-Dip
+        date:
+        start_date: 2014-09
+        end_date: 2020-06
+        location: Genova, Italia 
+    skills:
+      - label: Programming Languages
+        details: "C, C++, C#, Python, JavaScript, TypeScript, PHP. GO"
+      - label: Web Development
+        details: "HTML5, CSS3, TailwindCSS, Bootstrap 4/5, Vue.js"
+      - label: Frontend Frameworks
+        details: "React, Angular, JQuery"
+      - label: Backend Frameworks
+        details: "Node.js, NestJS, Laravel, CodeIgniter, .NET, Lumen"
+      - label: Database Technologies
+        details: "MySQL, PostgreSQL, OracleDB, MongoDB, Firebase"
+      - label: Version Control
+        details: "Git, GitLab, GitHub"
+      - label: DevOps Tools
+        details: "Docker, Kubernetes, Helm, SonarQube, GitLab CI/CD, K6, Grafana, InfluxDB"
+      - label: Networking & Systems
+        details: "Linux (Ubuntu, Debian), Windows (7, 8, 10), macOS, Cisco networking (routers, switches)"
+      - label: Software Development Tools
+        details: "Visual Studio Code, Eclipse, NetBeans, PHPStorm, Unity Game Engine, NotePad++, VIM, CygWin, PHPMyAdmin"
+      - label: Cloud & Virtualization
+        details: "Oracle VM VirtualBox, VMware, Hyper-V, Docker"
+      - label: Agile Methodologies
+        details: "Scrum, SAFE Agile, Waterfall"
+      - label: Project Management Tools
+        details: "Jira, Confluence, Polarion, Atlassian Suite"
+      - label: Data Serialization
+        details: "JSON, XML, YAML"
+      - label: Game Development
+        details: "Unity Game Engine"
+      - label: Security & Code Quality
+        details: "Secure coding practices, SonarQube"
+      - label: Operating Systems
+        details: "Linux (Ubuntu, Debian), Windows (7, 8, 10), macOS"
+      - label: Soft Skills
+        details: "Communication, Teamwork, Problem-solving, Time management"
+      - label: Languages
+        details: "*English* (C1), *Italian* (native)"
+
+    # projects:
+    #   - name: '[Example Project](https://example.com)'
+    #     date:
+    #     start_date: 2024-05
+    #     end_date: present
+    #     location:
+    #     summary: A web application for writing essays
+    #     highlights:
+    #       - Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users
+    #       - The app is made open-source (3,000+ stars [on GitHub](https://github.com))
+    #   - name: '[Teaching on Udemy](https://example.com)'
+    #     date: Fall 2023
+    #     start_date:
+    #     end_date:
+    #     location:
+    #     summary:
+    #     highlights:
+    #       - Instructed the "Statics" course on Udemy (60,000+ students, 200,000+ hours watched)
+    Ulteriori Informazioni :
+      - label : "Patente di guida"
+        details: "B, AM \n\r *Autorizzo il trattamento dei miei dati personali presenti nel CV ai sensi dell’art. 13 d. lgs. 30 giugno 2003 n. 196 - “Codice in materia di protezione dei dati personali” e dell’art. 13 GDPR 679/16 - “Regolamento europeo sulla protezione dei dati personali”.*"
+design:
+  theme: engineeringclassic
+  page:
+    size: a4
+    top_margin: 1cm
+    bottom_margin: 1cm
+    left_margin: 1cm
+    right_margin: 1cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: Roboto
+    font_size: 9pt
+    leading: 0.5em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: false
+    use_external_link_icon: true
+  header:
+    name_font_family: Roboto
+    name_font_size: 28pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.6cm
+    vertical_space_between_connections_and_first_section: 0.6cm
+    horizontal_space_between_connections: 0.4cm
+    connections_font_family: Roboto
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_family: Roboto
+    font_size: 1.3em
+    bold: true
+    small_caps: false
+    line_thickness: 0.4pt
+    vertical_space_above: 0.4cm
+    vertical_space_below: 0.2cm
+  entries:
+    date_and_location_width: 3.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    top_margin: 0.25cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: '**INSTITUTION**, AREA'
+      degree_column_template: '**DEGREE**'
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column_first_row_template: '**COMPANY**, POSITION'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: it
+  phone_number_format: national
+  page_numbering_template: NAME - pagina PAGE_NUMBER \ TOTAL_PAGES
+  last_updated_date_template: ""
+  date_template: MONTH_ABBREVIATION YEAR
+  month: mese
+  months: mesi
+  year: anno
+  years: anni
+  present: Attuale
+  to: –
+  abbreviations_for_months:
+    - Gen
+    - Feb
+    - Mar
+    - Apr
+    - Mag
+    - Giu
+    - Lug
+    - Ago
+    - Set
+    - Ott
+    - Nov
+    - Dic
+  full_names_of_months:
+    - Gennaio
+    - Febbraio
+    - Marzo
+    - Aprile
+    - Maggio
+    - Giugno
+    - Luglio
+    - Agosto
+    - Settembre
+    - Ottobre
+    - Novembre
+    - Dicembre
+rendercv_settings:
+  date: '2025-09-19'
+  render_command:
+  bold_keywords: []
