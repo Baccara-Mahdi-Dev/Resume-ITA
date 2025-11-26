@@ -51,7 +51,7 @@
 
 - Ago 2021 – Lug 2022
 - Genova, Italia
-- Sviluppo e mantenimento di **API RESTFUL** basate sul framework **Larvel** (**Lumen**) e **REST** basate sul framework **Restler**
+- Sviluppo e mantenimento di **API RESTFUL** basate sul framework **Laravel** (**Lumen**) e **REST** basate sul framework **Restler**
 - Contribuzione alla documentazione sulla piattaforma Confluence
 - Test e correzione di bug
 - Risoluzione ticket su **Trello** e **GitLab**
@@ -109,7 +109,7 @@
 - Security & Code Quality: Secure coding practices, SonarQube
 - Operating Systems: Linux (Ubuntu, Debian), Windows (7, 8, 10), macOS
 - Soft Skills: Communication, Teamwork, Problem-solving, Time management
-- Languages: *English* (C1), *Italian* (native)
+- Lingue: *Inglese* (C1), *Italiano* (Madrelingua)
 # Ulteriori Informazioni
 
 - Patente di guida: B, AM 

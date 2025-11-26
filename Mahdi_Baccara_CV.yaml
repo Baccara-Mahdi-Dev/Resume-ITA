@@ -1,0 +1,302 @@
+cv:
+  name: Mahdi Baccara
+  location: Genoa
+  email: baccara.mahdi@zoho.com
+  phone: "+39 3469502475"
+  website: https://baccara-dev.netlify.app/
+  social_networks:
+    - network: LinkedIn
+      username: mahdi-baccara
+    - network: GitHub
+      username: Baccara-Mahdi-Dev
+  sections:
+    # About me:
+    #   - '[RenderCV](https://rendercv.com) is a Typst-based CV framework designed for academics and engineers, with Markdown syntax support.'
+    #   - Each section title is arbitrary. Each section contains a list of entries, and there are 7 different entry types to choose from.
+    Work Experience:
+      - company: Akronos S.R.L. (per Siemens)
+        position: Full-stack Developer
+        date:
+        start_date: 2024-06-21
+        end_date:
+        location: Genoa, Italy
+        summary: Consulting activities at Siemens, focused on full-stack development, performance testing, and CI/CD pipeline management in an enterprise environment.
+        highlights:
+          - Integration and development of CI/CD pipelines on **GitLab**, managing build, test, and deploy processes.
+          - Development and improvement of automated performance tests using **K6**, with result analysis and report generation.
+          - Extensive use of the **NATS** protocol and its client library for asynchronous messaging systems.
+          - Refactoring and updating **.NET** and **C#** components, adapting tests and pipelines.
+          - Creation of custom tools in **Node.js** for automatic processing of test results.
+          - Containerization activities and image management with **Docker**, control and validation of public and golden images.
+          - Monitoring tests via **InfluxDB** and **Grafana**, creating dedicated dashboards.
+          - Introduction and adaptation of pipelines from other systems (e.g., **TFS**) to the **GitLab** infrastructure.
+      - company: Algowatt S.p.A.
+        position: Full-stack Developer
+        date:
+        start_date: 2023-07-03
+        end_date: 2024-06-20
+        location: Genoa, Italy
+        summary:
+        highlights:
+          - Development and maintenance of software with **Angular**, **C#**, **ASP.NET**, **.NET**, and **Oracle DB**.
+          - Contributing to project documentation.
+          - Creation of **CMake** scripts and **C++** programs for refactoring **Matlab** software, with the support of AI **ChatGPT**.
+          - Modernization of **C# .NET** software for Windows using **DevExpress** to create a full-stack application with **Angular** on the frontend and **.NET** on the backend.
+          - Bug fixing and software testing.
+          - Experience working with **API**.
+      - company: Boris Production
+        position: Full-stack Developer
+        date:
+        start_date: 2022-07-01
+        end_date: 2023-07-03
+        location: Genoa, Italy
+        summary:
+        highlights:
+          - Development of the new U.I. and U.X. for indici.blablive in **SCSS**, **PHP**, and **JavaScript**.
+          - Development and maintenance of **PHP** code.
+          - Testing and bug fixing.
+          - Contributing to documentation.
+          - Development of new and updated **WordPress** plugins in **PHP** and **React**.
+          - Resolving tickets.
+          - Experience working with **API**.
+          - "Creation of a web app for project management, stack: **Laravel 10**, **TailwindCSS**, **AlpineJS**, **MySQL**."
+      - company: MyPass
+        position: Full-stack Developer
+        date:
+        start_date: 2021-08-02
+        end_date: 2022-07-01
+        location: Genoa, Italy
+        summary:
+        highlights:
+          - Development and maintenance of **RESTFUL APIs** based on the **Laravel** (**Lumen**) framework and **REST** APIs based on the **Restler** framework.
+          - Contributing to documentation on the **Confluence** platform.
+          - Testing and bug fixing.
+          - Resolving tickets on **Trello** and **GitLab**.
+          - Development of **PHP** scripts and **MySQL** queries aimed at managing large amounts of data, regularly executed via cron jobs.
+          - Experience with **GitLab** and **CI/CD** pipelines.
+          - Development of custom dashboards and tools in **PHP** and **React**.
+          - Experience working with **API**, integrating with external web services including **XML**, **REST**, or **JSON**.
+      - company: 2Way Communication & Consulting
+        position: Full-stack Developer
+        date:
+        start_date: 2021-01-11
+        end_date: 2021-08-01
+        location: Genoa, Italy
+        summary:
+        highlights:
+          - Development and maintenance of web applications using **PHP** and **CodeIgniter** with MVC architecture.
+          - Use of **MySQL** for managing relational databases.
+          - Implementation of interactive features with **AJAX** and **jQuery**.
+          - Creation and management of responsive user interfaces with **HTML**, **CSS**, and **Bootstrap 4**.
+          - Drafting documentation for the usage of web apps.
+          - Testing and bug fixing in the software.
+          - Experience in using **API** for integration with other systems.
+      - company: Liguria Digitale
+        position: Internship
+        date:
+        start_date: 2023-07-03
+        end_date: 2024-06-20
+        location: Genoa, Italy
+        summary:
+        highlights:
+          - Development of **XML** web pages supported by **Bootstrap 4** and applications in **Java**, using the **Eclipse** programming environment.
+    Education:
+      - institution: University of Genoa
+        area: Computer Science
+        degree: B.D.
+        date:
+        start_date: 2020-09
+        end_date: present
+        location: Genoa, Italy
+        summary:
+        highlights:
+      - institution: Italo Calvino - Institute of Higher Education
+        area: ITIS – Computer Science
+        degree: T-Dip
+        date:
+        start_date: 2014-09
+        end_date: 2020-06
+        location: Genoa, Italy
+    skills:
+      - label: Programming Languages
+        details: "C, C++, C#, Python, JavaScript, TypeScript, PHP. GO"
+      - label: Web Development
+        details: "HTML5, CSS3, TailwindCSS, Bootstrap 4/5, Vue.js"
+      - label: Frontend Frameworks
+        details: "React, Angular, JQuery"
+      - label: Backend Frameworks
+        details: "Node.js, NestJS, Laravel, CodeIgniter, .NET, Lumen"
+      - label: Database Technologies
+        details: "MySQL, PostgreSQL, OracleDB, MongoDB, Firebase"
+      - label: Version Control
+        details: "Git, GitLab, GitHub"
+      - label: DevOps Tools
+        details: "Docker, Kubernetes, Helm, SonarQube, GitLab CI/CD, K6, Grafana, InfluxDB"
+      - label: Networking & Systems
+        details: "Linux (Ubuntu, Debian), Windows (7, 8, 10), macOS, Cisco networking (routers, switches)"
+      - label: Software Development Tools
+        details: "Visual Studio Code, Eclipse, NetBeans, PHPStorm, Unity Game Engine, NotePad++, VIM, CygWin, PHPMyAdmin"
+      - label: Cloud & Virtualization
+        details: "Oracle VM VirtualBox, VMware, Hyper-V, Docker"
+      - label: Agile Methodologies
+        details: "Scrum, SAFE Agile, Waterfall"
+      - label: Project Management Tools
+        details: "Jira, Confluence, Polarion, Atlassian Suite"
+      - label: Data Serialization
+        details: "JSON, XML, YAML"
+      - label: Game Development
+        details: "Unity Game Engine"
+      - label: Security & Code Quality
+        details: "Secure coding practices, SonarQube"
+      - label: Operating Systems
+        details: "Linux (Ubuntu, Debian), Windows (7, 8, 10), macOS"
+      - label: Soft Skills
+        details: "Communication, Teamwork, Problem-solving, Time management"
+      - label: Languages
+        details: "*English* (C1), *Italian* (native)"
+design:
+  theme: engineeringclassic
+  page:
+    size: a4
+    top_margin: 1cm
+    bottom_margin: 1cm
+    left_margin: 1cm
+    right_margin: 1cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: Roboto
+    font_size: 9pt
+    leading: 0.5em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: false
+    use_external_link_icon: true
+  header:
+    name_font_family: Roboto
+    name_font_size: 28pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.6cm
+    vertical_space_between_connections_and_first_section: 0.6cm
+    horizontal_space_between_connections: 0.4cm
+    connections_font_family: Roboto
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_family: Roboto
+    font_size: 1.3em
+    bold: true
+    small_caps: false
+    line_thickness: 0.4pt
+    vertical_space_above: 0.4cm
+    vertical_space_below: 0.2cm
+  entries:
+    date_and_location_width: 3.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    top_margin: 0.25cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: '**INSTITUTION**, AREA'
+      degree_column_template: '**DEGREE**'
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column_first_row_template: '**COMPANY**, POSITION'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-09-19'
+  render_command:
+  bold_keywords: []

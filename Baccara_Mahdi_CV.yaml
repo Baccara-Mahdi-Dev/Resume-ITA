@@ -76,7 +76,7 @@ cv:
           - Esperienza con **GitLab** e pipeline **CI/CD**
           - Sviluppo di dashboard personalizzate e strumenti in **php** e **React**
           - Esperienza di lavoro con le API, integrazione con servizi web esterni tra cui XML, REST o JSON
-      - company: 2Way Communication & Consulting 
+      - company: 2Way Communication & Consulting
         position: Full-stack Developer
         date:
         start_date: 2021-01-11
@@ -116,7 +116,7 @@ cv:
         date:
         start_date: 2014-09
         end_date: 2020-06
-        location: Genova, Italia 
+        location: Genova, Italia
     skills:
       - label: Programming Languages
         details: "C, C++, C#, Python, JavaScript, TypeScript, PHP. GO"
@@ -152,8 +152,8 @@ cv:
         details: "Linux (Ubuntu, Debian), Windows (7, 8, 10), macOS"
       - label: Soft Skills
         details: "Communication, Teamwork, Problem-solving, Time management"
-      - label: Languages
-        details: "*English* (C1), *Italian* (native)"
+      - label: Lingue
+        details: "*Inglese* (C1), *Italiano* (Madrelingua)"
 
     # projects:
     #   - name: '[Example Project](https://example.com)'

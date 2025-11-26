@@ -517,7 +517,7 @@ Lug 2022 – Lug 2023
     #strong[MyPass], Full-stack Developer
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Sviluppo e mantenimento di #strong[API RESTFUL] basate sul framework #strong[Larvel] \(#strong[Lumen]\) e #strong[REST] basate sul framework #strong[Restler]],[Contribuzione alla documentazione sulla piattaforma Confluence],[Test e correzione di bug],[Risoluzione ticket su #strong[Trello] e #strong[GitLab]],[Sviluppo di script PHP e query MySql, finalizzati alla gestione di numerosi dati ed eseguiti regolarmente tramite cron jobs],[Esperienza con #strong[GitLab] e pipeline #strong[CI\/CD]],[Sviluppo di dashboard personalizzate e strumenti in #strong[php] e #strong[React]],[Esperienza di lavoro con le API, integrazione con servizi web esterni tra cui XML, REST o JSON],)
+    #v(design-highlights-top-margin);#highlights([Sviluppo e mantenimento di #strong[API RESTFUL] basate sul framework #strong[Laravel] \(#strong[Lumen]\) e #strong[REST] basate sul framework #strong[Restler]],[Contribuzione alla documentazione sulla piattaforma Confluence],[Test e correzione di bug],[Risoluzione ticket su #strong[Trello] e #strong[GitLab]],[Sviluppo di script PHP e query MySql, finalizzati alla gestione di numerosi dati ed eseguiti regolarmente tramite cron jobs],[Esperienza con #strong[GitLab] e pipeline #strong[CI\/CD]],[Sviluppo di dashboard personalizzate e strumenti in #strong[php] e #strong[React]],[Esperienza di lavoro con le API, integrazione con servizi web esterni tra cui XML, REST o JSON],)
   ],
   right-content: [
     Genova, Italia
@@ -668,7 +668,7 @@ Set 2014 – Giu 2020
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Languages:] #emph[English] \(C1\), #emph[Italian] \(native\)]
+  content: [#strong[Lingue:] #emph[Inglese] \(C1\), #emph[Italiano] \(Madrelingua\)]
 )
 
 
