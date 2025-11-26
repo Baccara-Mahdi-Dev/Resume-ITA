@@ -1,4 +1,4 @@
-# 📄 RenderCV Project – Mahdi Baccara
+# 📄 EnterTheCv
 
 This project uses **[RenderCV](https://github.com/rendercv/rendercv)** to generate professional CVs in multiple languages (Italian 🇮🇹 and English 🇬🇧).  
 It provides a simple script (`render.sh`) to render the CV in the desired language from YAML templates.
@@ -12,7 +12,6 @@ It provides a simple script (`render.sh`) to render the CV in the desired langua
 ├── classic/                # Classic RenderCV theme assets
 ├── eng/                    # Output folder for English CV
 ├── ita/                    # Output folder for Italian CV
-├── markdown/               # Markdown version of the CV
 ├── Baccara_Mahdi_CV.yaml   # YAML template for Italian CV
 ├── Mahdi_Baccara_CV.yaml   # YAML template for English CV
 ├── render.sh               # Script to render CVs
@@ -88,4 +87,5 @@ esac
 - The **classic** and **markdown** folders contain additional RenderCV themes and formats.  
 - You can customize the YAML templates to update CV content.  
 - Output files (PDF, HTML, etc.) will be generated inside the language-specific folders.
+- The name is inspired by the popular roguelike *Enter the Gungeon*.
  
